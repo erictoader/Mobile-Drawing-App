@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.36944444444444446" />
+        <entry key="app/src/main/res/drawable/background_drawable_view.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/blue_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/green_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/indigo_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/large_brush_size.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/medium_brush_size.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/orange_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/purple_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/red_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/small_brush_size.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/yellow_color_brush.xml" value="0.1995" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/dialog_custom_progress.xml" value="0.24420912722323812" />
+        <entry key="app/src/main/res/layout/dialogue_brush_color.xml" value="0.3129528985507246" />
+        <entry key="app/src/main/res/layout/dialogue_brush_size.xml" value="0.3129528985507246" />
+        <entry key="app/src/main/res/xml/path.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

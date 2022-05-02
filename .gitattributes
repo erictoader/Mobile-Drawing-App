@@ -1,0 +1,9 @@
+*.java linguist-detectable=true
+*.c linguist-detectable=true
+*.sql linguist-detectable=true
+*.kt linguist-detectable=true
+*.xml linguist-detectable=false
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
